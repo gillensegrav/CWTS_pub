@@ -1,2 +1,2 @@
 # CWTS
-CWTS
+CWTS is the Coded Wire Tag System database. It is a statewide corporate repository that stores coded wire tag catch, sample, and individual fish data as well as derived expanded estimated tag data. CWTS is used to assist in administering the terms of the Pacific Salmon Treaty with frequent submissions to a coastwide, multi-agency, public facing database, the Regional Mark Information System (RMIS). It is also used as a tool to assist in the yearly North of Falcon season-setting process.
